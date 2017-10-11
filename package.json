@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindaKarida/node_exercise_2.git"
+  },
+  "author": "Linda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LindaKarida/node_exercise_2/issues"
+  },
+  "homepage": "https://github.com/LindaKarida/node_exercise_2#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
